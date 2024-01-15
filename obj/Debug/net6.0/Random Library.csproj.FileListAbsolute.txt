@@ -1,0 +1,14 @@
+C:\Users\cyclo\Desktop\C#practice\Random Library\bin\Debug\net6.0\Random Library.exe
+C:\Users\cyclo\Desktop\C#practice\Random Library\bin\Debug\net6.0\Random Library.deps.json
+C:\Users\cyclo\Desktop\C#practice\Random Library\bin\Debug\net6.0\Random Library.runtimeconfig.json
+C:\Users\cyclo\Desktop\C#practice\Random Library\bin\Debug\net6.0\Random Library.dll
+C:\Users\cyclo\Desktop\C#practice\Random Library\bin\Debug\net6.0\Random Library.pdb
+C:\Users\cyclo\Desktop\C#practice\Random Library\obj\Debug\net6.0\Random Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyclo\Desktop\C#practice\Random Library\obj\Debug\net6.0\Random Library.AssemblyInfoInputs.cache
+C:\Users\cyclo\Desktop\C#practice\Random Library\obj\Debug\net6.0\Random Library.AssemblyInfo.cs
+C:\Users\cyclo\Desktop\C#practice\Random Library\obj\Debug\net6.0\Random Library.csproj.CoreCompileInputs.cache
+C:\Users\cyclo\Desktop\C#practice\Random Library\obj\Debug\net6.0\Random Library.dll
+C:\Users\cyclo\Desktop\C#practice\Random Library\obj\Debug\net6.0\refint\Random Library.dll
+C:\Users\cyclo\Desktop\C#practice\Random Library\obj\Debug\net6.0\Random Library.pdb
+C:\Users\cyclo\Desktop\C#practice\Random Library\obj\Debug\net6.0\Random Library.genruntimeconfig.cache
+C:\Users\cyclo\Desktop\C#practice\Random Library\obj\Debug\net6.0\ref\Random Library.dll
