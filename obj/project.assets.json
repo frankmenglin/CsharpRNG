@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cyclo\\Desktop\\C#practice\\Random Library\\Random Library.csproj",
+      "projectUniqueName": "C:\\Users\\cyclo\\Desktop\\GitHub Local\\CsharpRNG\\Random Library.csproj",
       "projectName": "Random Library",
-      "projectPath": "C:\\Users\\cyclo\\Desktop\\C#practice\\Random Library\\Random Library.csproj",
+      "projectPath": "C:\\Users\\cyclo\\Desktop\\GitHub Local\\CsharpRNG\\Random Library.csproj",
       "packagesPath": "C:\\Users\\cyclo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cyclo\\Desktop\\C#practice\\Random Library\\obj\\",
+      "outputPath": "C:\\Users\\cyclo\\Desktop\\GitHub Local\\CsharpRNG\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cyclo\\AppData\\Roaming\\NuGet\\NuGet.Config",

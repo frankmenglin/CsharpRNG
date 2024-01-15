@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l2J9R9UfhlMPKDUZkl5VZfUl3zS4YM0ZiIzwLonKchAH1L2VhU81fnL3TOtRoSrP6Gm2BYppT+y9k0T3mNBT6A==",
+  "dgSpecHash": "xrTvWuC880vTz1Qr2dYx58B5e+rVtnUNiBxiRRTKcLg0/0ole/NXkf5VJaiWbhDHjF+0NFOWIS2VBJ02O0z63g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cyclo\\Desktop\\C#practice\\Random Library\\Random Library.csproj",
+  "projectFilePath": "C:\\Users\\cyclo\\Desktop\\GitHub Local\\CsharpRNG\\Random Library.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
