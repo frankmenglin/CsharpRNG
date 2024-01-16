@@ -36,6 +36,12 @@ namespace RNG
             return mu + sigma * Math.Sqrt(-2 * Math.Log(U1) * Math.Cos(2 * Math.PI * U2));//Box muller transformation
         }//Gaussian Random Variable
 
+        public static double ExponentialRand(double lambda = 1)
+        {
+            double p = NextDouble();
+            return -Math.Log(1-p)/lambda;
+        }
+
         public static bool BinaryRand(double p = 0.5)
         {
             if (!(p <= 1 && p >= 0)) { throw new Exception("Invalid probaility"); }
